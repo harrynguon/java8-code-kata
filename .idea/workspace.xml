@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399899c1-cf31-4836-bbb3-df2f18c4aa6b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/collection-interfaces/target/" />
@@ -34,8 +35,8 @@
       <file leaf-file-name="Exercise8Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
-              <caret line="59" column="18" lean-forward="false" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+            <state relative-caret-position="437">
+              <caret line="54" column="11" lean-forward="false" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -213,10 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,6 +260,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise8Test.itemsNotOnSale">
+  <component name="RunManager" selected="JUnit.Exercise8Test.havingEnoughMoney">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -317,31 +318,6 @@
       <option name="MAIN_CLASS_NAME" value="stream.api.Exercise5Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Exercise5Test.oldestCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="stream.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="stream-api" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise5Test" />
-      <option name="METHOD_NAME" value="oldestCustomer" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -392,6 +368,31 @@
       <option name="MAIN_CLASS_NAME" value="stream.api.Exercise7Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Exercise8Test.havingEnoughMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stream.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="stream-api" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="stream.api" />
+      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise8Test" />
+      <option name="METHOD_NAME" value="havingEnoughMoney" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -489,19 +490,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Exercise5Test.oldestCustomer" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Exercise5Test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Exercise6Test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Exercise7Test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Exercise8Test.itemsNotOnSale" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Exercise5Test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Exercise6Test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Exercise7Test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Exercise8Test.itemsNotOnSale" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Exercise8Test.havingEnoughMoney" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Exercise8Test.itemsNotOnSale" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Exercise7Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Exercise6Test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Exercise5Test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Exercise5Test.oldestCustomer" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Exercise8Test.havingEnoughMoney" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Exercise8Test.itemsNotOnSale" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Exercise7Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Exercise6Test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Exercise5Test" />
       </list>
     </recent_temporary>
   </component>
@@ -522,23 +523,23 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise8Test_itemsNotOnSale - 2018.01.29 at 19h 12m 16s.xml">
-      <configuration name="Exercise8Test.itemsNotOnSale" configurationId="JUnit" />
+    <history-entry file="Exercise8Test_havingEnoughMoney - 2018.01.31 at 01h 41m 06s.xml">
+      <configuration name="Exercise8Test.havingEnoughMoney" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise8Test_itemsNotOnSale - 2018.01.29 at 19h 15m 53s.xml">
-      <configuration name="Exercise8Test.itemsNotOnSale" configurationId="JUnit" />
+    <history-entry file="Exercise8Test_havingEnoughMoney - 2018.01.31 at 01h 42m 06s.xml">
+      <configuration name="Exercise8Test.havingEnoughMoney" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise8Test_itemsNotOnSale - 2018.01.29 at 19h 16m 40s.xml">
-      <configuration name="Exercise8Test.itemsNotOnSale" configurationId="JUnit" />
+    <history-entry file="Exercise8Test_havingEnoughMoney - 2018.01.31 at 01h 42m 24s.xml">
+      <configuration name="Exercise8Test.havingEnoughMoney" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise8Test_itemsNotOnSale - 2018.01.29 at 19h 17m 02s.xml">
-      <configuration name="Exercise8Test.itemsNotOnSale" configurationId="JUnit" />
+    <history-entry file="Exercise8Test_havingEnoughMoney - 2018.01.31 at 01h 43m 36s.xml">
+      <configuration name="Exercise8Test.havingEnoughMoney" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise8Test_itemsNotOnSale - 2018.01.29 at 19h 17m 51s.xml">
-      <configuration name="Exercise8Test.itemsNotOnSale" configurationId="JUnit" />
+    <history-entry file="Exercise8Test_havingEnoughMoney - 2018.01.31 at 01h 49m 27s.xml">
+      <configuration name="Exercise8Test.havingEnoughMoney" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise8Test_itemsNotOnSale - 2018.01.29 at 19h 18m 40s.xml">
-      <configuration name="Exercise8Test.itemsNotOnSale" configurationId="JUnit" />
+    <history-entry file="Exercise8Test_havingEnoughMoney - 2018.01.31 at 01h 50m 48s.xml">
+      <configuration name="Exercise8Test.havingEnoughMoney" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Exercise8Test_itemsNotOnSale - 2018.01.29 at 19h 19m 19s.xml">
       <configuration name="Exercise8Test.itemsNotOnSale" configurationId="JUnit" />
@@ -574,18 +575,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25151682" sideWeight="0.49568966" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25151682" sideWeight="0.49568966" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18257032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18477662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -612,19 +613,61 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="544">
+          <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/dataset/ClassicOnlineStore.java">
+    <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/entity/Shop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding>
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/entity/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/OptionalDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -632,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="850" column="31" lean-forward="false" selection-start-line="850" selection-start-column="31" selection-end-line="850" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,10 +835,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/dataset/ClassicOnlineStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="59" column="18" lean-forward="false" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+        <state relative-caret-position="437">
+          <caret line="54" column="11" lean-forward="false" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
           <folding />
         </state>
       </provider>
